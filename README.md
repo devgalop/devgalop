@@ -1,7 +1,10 @@
 # Hi there 👋 I'm Alexander Garcia
 
 <img src="assets/banner_devgalop.png" alt="github_banner"/>
+
 ---
+
+[🇪🇸](README.es.md)
 
 Software Engineer with 6+ years of experience building **scalable, high-performance backend systems**.
 I focus on **clean architecture, event-driven systems, and measurable performance improvements**.
